@@ -8,7 +8,7 @@ return [
         'adapter'  => 'Mysql',
         'host'     => 'localhost',
         'username' => 'root',
-        'password' => '111',
+        'password' => 'vagrant',
         'dbname'   => 'yona-cms',
         'charset'  => 'utf8',
     ],
